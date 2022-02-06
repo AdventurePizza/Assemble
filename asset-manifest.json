@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Assemble/static/css/main.6b0d66d3.chunk.css",
-    "main.js": "/Assemble/static/js/main.3d916002.chunk.js",
-    "main.js.map": "/Assemble/static/js/main.3d916002.chunk.js.map",
+    "main.js": "/Assemble/static/js/main.7ba349ec.chunk.js",
+    "main.js.map": "/Assemble/static/js/main.7ba349ec.chunk.js.map",
     "runtime-main.js": "/Assemble/static/js/runtime-main.67751d91.js",
     "runtime-main.js.map": "/Assemble/static/js/runtime-main.67751d91.js.map",
     "static/css/2.d9b86bf4.chunk.css": "/Assemble/static/css/2.d9b86bf4.chunk.css",
-    "static/js/2.6182aaf0.chunk.js": "/Assemble/static/js/2.6182aaf0.chunk.js",
-    "static/js/2.6182aaf0.chunk.js.map": "/Assemble/static/js/2.6182aaf0.chunk.js.map",
+    "static/js/2.fe37fe61.chunk.js": "/Assemble/static/js/2.fe37fe61.chunk.js",
+    "static/js/2.fe37fe61.chunk.js.map": "/Assemble/static/js/2.fe37fe61.chunk.js.map",
     "static/js/3.e50b4f17.chunk.js": "/Assemble/static/js/3.e50b4f17.chunk.js",
     "static/js/3.e50b4f17.chunk.js.map": "/Assemble/static/js/3.e50b4f17.chunk.js.map",
     "index.html": "/Assemble/index.html",
     "static/css/2.d9b86bf4.chunk.css.map": "/Assemble/static/css/2.d9b86bf4.chunk.css.map",
     "static/css/main.6b0d66d3.chunk.css.map": "/Assemble/static/css/main.6b0d66d3.chunk.css.map",
-    "static/js/2.6182aaf0.chunk.js.LICENSE.txt": "/Assemble/static/js/2.6182aaf0.chunk.js.LICENSE.txt",
+    "static/js/2.fe37fe61.chunk.js.LICENSE.txt": "/Assemble/static/js/2.fe37fe61.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Assemble/static/media/Inconsolata-Regular.ed7f6e5b.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.67751d91.js",
     "static/css/2.d9b86bf4.chunk.css",
-    "static/js/2.6182aaf0.chunk.js",
+    "static/js/2.fe37fe61.chunk.js",
     "static/css/main.6b0d66d3.chunk.css",
-    "static/js/main.3d916002.chunk.js"
+    "static/js/main.7ba349ec.chunk.js"
   ]
 }
