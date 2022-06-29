@@ -1,0 +1,15 @@
+.center {
+  display: flex;
+  justify-content: center;
+  padding-left: 80%;
+}
+
+.background-container {
+	width: 100%;
+}
+
+.background-icon-list {
+	display: flex;
+	overflow-x: auto;
+	display: 'flex'; 
+}

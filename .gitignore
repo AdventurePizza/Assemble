@@ -1,0 +1,7 @@
+node_modules
+build
+.env
+.env2
+.env3
+.git
+

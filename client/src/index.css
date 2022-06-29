@@ -1,0 +1,54 @@
+body {
+  margin: 0px;
+  font-family: "Neue-regular";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+@media screen and (min-width: 500px) {
+  ::-webkit-scrollbar {
+    width: 0px;
+  }
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #ffffff;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #000;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #000;
+  }
+}
+
+code {
+  font-family: "Neue-regular";
+}
+
+@font-face {
+  font-family: "Inconsolata";
+  src: url(./assets/fonts/Inconsolata-Regular.ttf);
+}
+
+@font-face {
+  font-family: "CaviarDreams";
+  src: url(./assets/fonts/CaviarDreams.ttf);
+}
+
+@font-face {
+  font-family: "Macondo";
+  src: url(./assets/fonts/Macondo-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Neue-bold";
+  src: url(./assets/fonts/BebasNeuePro-Bold.ttf);
+}
+@font-face {
+  font-family: "Neue-regular";
+  src: url(./assets/fonts/BebasNeuePro-Regular.ttf);
+}
